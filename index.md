@@ -1,12 +1,16 @@
-## Julio Ricardo Velázquez Hernandez
+# Julio Ricardo Velázquez Hernandez
 
-You can use the [editor on GitHub](https://github.com/jvelazquezh98/Digital-CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## About me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Actuary specialized on data management and analytics for tasks such as transformation, study, visualization, and modeling using different business intelligence and machine learning tools, my goal is to keep improving the skills and knowledge I've obtained throughout the years.
 
-### Markdown
+## Professional Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> Business Intelligence Analyist Genomma Lab. International   
+> > Business Partner USA and Chile: In charge of the administration, management, and upload of the sales information from both countries.
+> > ETL process development using python to download, transform and upload large amounts of data from various countries, using API's and data transformation tools.
+> > Creation of dashboards on Power BI along with tools to create connections to databases, using different graphs, measures, and DAX to fit the needs of different areas of the company.
+> > Automatization of processes to manage the data on the Data Warehouse.
 
 ```markdown
 Syntax highlighted code block
