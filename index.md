@@ -11,7 +11,7 @@ Actuary specialized on data management and analytics for tasks such as transform
 > > - ETL process development using python to download, transform and upload large amounts of data from various countries, using API's and data transformation tools.
 > > - Creation of dashboards on Power BI along with tools to create connections to databases, using different graphs, measures, and DAX to fit the needs of different areas of the company.
 > > - Automatization of processes to manage the data on the Data Warehouse.
-> > - Implementation of forecasts models for sales and inventories using machine learning and statistical tools.
+> > - Implementation of forecast models for sales and inventories using machine learning and statistical tools.
 
 ## Programing Languages
 
