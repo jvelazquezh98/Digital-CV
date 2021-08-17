@@ -7,10 +7,24 @@ Actuary specialized on data management and analytics for tasks such as transform
 ## Professional Experience
 
 > Business Intelligence Analyist Genomma Lab. International   
-> > Business Partner USA and Chile: In charge of the administration, management, and upload of the sales information from both countries.
-> > ETL process development using python to download, transform and upload large amounts of data from various countries, using API's and data transformation tools.
-> > Creation of dashboards on Power BI along with tools to create connections to databases, using different graphs, measures, and DAX to fit the needs of different areas of the company.
-> > Automatization of processes to manage the data on the Data Warehouse.
+> > - Business Partner USA and Chile: In charge of the administration, management, and upload of the sales information from both countries.
+> > - ETL process development using python to download, transform and upload large amounts of data from various countries, using API's and data transformation tools.
+> > - Creation of dashboards on Power BI along with tools to create connections to databases, using different graphs, measures, and DAX to fit the needs of different areas of the company.
+> > - Automatization of processes to manage the data on the Data Warehouse.
+
+## Programing Languages
+
+| Programing Languages | Skill level |
+| -------------- | :--------- |
+| Python | Advanced |
+| SQL | Advanced |
+| R | Advanced |
+| Java | Intermediate |
+| Matlab | Intermediate |
+| VBA | Intermediate |
+| Python | Advanced |
+
+
 
 ```markdown
 Syntax highlighted code block
